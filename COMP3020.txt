@@ -1,0 +1,27 @@
+COMP 3020 Milestone #1
+A.Project idea
+
+B. Stakeholder 
+   1). Restaurants and bars. 
+
+
+   2). Customers. 
+For those who are in the age between 20-50.
+ For those people who have background knowledge about how to use online ordering application. 
+Maybe used online ticket booking website before. 
+People do not like to wait for a free table. 
+Customers who like to 
+
+   3). Service in restaurants and bars. 
+
+
+C. User research
+
+3 research methods
+- Online survey	
+- interviews 
+- 
+
+D. Requirements
+
+E. Scenarios
